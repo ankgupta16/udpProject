@@ -15,10 +15,11 @@ https://github.com/ankgupta16/udpProject.git
       **python server.py**
 7. Execute the Script: Run the client script by executing the command on another terminal or command prompt:  
       **python client.py**
-8. Register a new user: Enter the user details in the client console. Email is mandatory for registering a new user.
-9. Get Registered Users: Enter 'get_users' in the client console to request the registered users' information.
-10. Delete a User: Enter the email id of the user to be deleted in the client console.
+8. Choose the Choice of operation: 
+9. For New User registration : Insert 1 & Enter the user details in the client console. Email is mandatory for registering a new user.
+9. To get Registered Users: Insert 2 in the client console & registered users' information will be printed on console in json format.
+10. TO Delete a User: Insert 3 in the client console & Enter the email id of the user to be deleted in the client console.
+11. To Exit insert 4.
 11. Review the Output: Check the console output for the acknowledgment messages and the registered users' information.  
 **Development Environment**  
-Python 3.9.7
-
+Python 3.9.7  
