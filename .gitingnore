@@ -1,0 +1,10 @@
+conf.ini
+
+# Python-specific
+__pycache__
+
+# Virtual environment
+venv
+
+# IDE-specific files
+.idea
